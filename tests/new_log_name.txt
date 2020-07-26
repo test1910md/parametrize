@@ -1,0 +1,7 @@
+@ttnot valid
+test@test.ruvalid
+w@w.comvalid
+123QWE@mmm.mmmvalid
+test@test.not valid
+w@not valid
+@ttnot valid
